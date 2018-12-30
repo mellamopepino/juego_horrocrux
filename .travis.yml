@@ -4,6 +4,7 @@ notifications:
   email:
     recipients:
       - ivobiaus@gmail.com
+      - delfinagarciav@gmail.com
 
     on_success: always # default: change
     on_failure: always # default: always
