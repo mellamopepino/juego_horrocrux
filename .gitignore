@@ -1,0 +1,16 @@
+*.sw*
+build/
+libs/
+tmp/
+out/
+.classpath
+.project
+.settings/
+.idea/
+target/
+out/
+bin/
+build.xml.old
+*.jar
+*.iml
+out/
